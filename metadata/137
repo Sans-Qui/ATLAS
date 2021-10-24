@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS137.png",
+    "tokenId": 137,
+    "name": "ATLAS NFT 137",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Brown1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "BasePink"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "AquariumClownFish"
+        }
+    ]
+}

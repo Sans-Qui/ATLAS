@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS387.png",
+    "tokenId": 387,
+    "name": "ATLAS NFT 387",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Bald"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Saitama"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Axe"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS27.png",
+    "tokenId": 27,
+    "name": "ATLAS NFT 27",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Rainbow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Brown1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Pot"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "TreasureRare"
+        }
+    ]
+}

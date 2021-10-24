@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS28.png",
+    "tokenId": 28,
+    "name": "ATLAS NFT 28",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Ginger1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "SmokingPinkTie"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "HandCuff"
+        }
+    ]
+}

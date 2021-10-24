@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS145.png",
+    "tokenId": 145,
+    "name": "ATLAS NFT 145",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue2"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Blue1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "SmokingPinkTie"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "SwordShieldDiamond"
+        }
+    ]
+}

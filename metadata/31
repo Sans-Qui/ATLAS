@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS31.png",
+    "tokenId": 31,
+    "name": "ATLAS NFT 31",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mauve"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Ginger1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "PinkSmoking"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "HoldFace"
+        }
+    ]
+}

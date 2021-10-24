@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS30.png",
+    "tokenId": 30,
+    "name": "ATLAS NFT 30",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mauve"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Blond1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Kakarot"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Rasta"
+        }
+    ]
+}

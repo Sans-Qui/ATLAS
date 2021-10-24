@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS260.png",
+    "tokenId": 260,
+    "name": "ATLAS NFT 260",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Bald"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "NoCostume"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Maracas"
+        }
+    ]
+}

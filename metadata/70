@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS70.png",
+    "tokenId": 70,
+    "name": "ATLAS NFT 70",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Rainbow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Grey1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Bath"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Bulbasaur"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS359.png",
+    "tokenId": 359,
+    "name": "ATLAS NFT 359",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue2"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Bald"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "ArmorGoldCape"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Diamond"
+        }
+    ]
+}

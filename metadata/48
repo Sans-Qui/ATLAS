@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS48.png",
+    "tokenId": 48,
+    "name": "ATLAS NFT 48",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mauve"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Brown1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Flame"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "CatchingFishBlue"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS373.png",
+    "tokenId": 373,
+    "name": "ATLAS NFT 373",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Rainbow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Grey1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "AllBlack"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Vader"
+        }
+    ]
+}

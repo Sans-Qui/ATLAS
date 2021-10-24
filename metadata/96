@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS96.png",
+    "tokenId": 96,
+    "name": "ATLAS NFT 96",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Green1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "NoCostume"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "CieldeBillets"
+        }
+    ]
+}

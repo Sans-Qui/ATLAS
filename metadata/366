@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS366.png",
+    "tokenId": 366,
+    "name": "ATLAS NFT 366",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Bald"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "AllBlack"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "ElephantPink"
+        }
+    ]
+}

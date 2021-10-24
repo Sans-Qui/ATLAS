@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS106.png",
+    "tokenId": 106,
+    "name": "ATLAS NFT 106",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Bald"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Saitama"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Elephant"
+        }
+    ]
+}

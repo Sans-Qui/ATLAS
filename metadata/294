@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS294.png",
+    "tokenId": 294,
+    "name": "ATLAS NFT 294",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Ogre"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Grey1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Boat"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Supporter"
+        }
+    ]
+}

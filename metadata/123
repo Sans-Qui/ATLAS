@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS123.png",
+    "tokenId": 123,
+    "name": "ATLAS NFT 123",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Rainbow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Bald"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "BasketBlack"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "CatchingFishBlue"
+        }
+    ]
+}

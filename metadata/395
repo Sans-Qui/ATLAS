@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS395.png",
+    "tokenId": 395,
+    "name": "ATLAS NFT 395",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mauve"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Grey1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Bionic"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Cercueil"
+        }
+    ]
+}

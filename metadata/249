@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS249.png",
+    "tokenId": 249,
+    "name": "ATLAS NFT 249",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Brown1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Squeletteblck"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "ElephantPink"
+        }
+    ]
+}

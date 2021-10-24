@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS101.png",
+    "tokenId": 101,
+    "name": "ATLAS NFT 101",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Rainbow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Grey1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "ShinyBlue"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Diamond"
+        }
+    ]
+}

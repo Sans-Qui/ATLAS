@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS324.png",
+    "tokenId": 324,
+    "name": "ATLAS NFT 324",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Grey1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Michael"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Cercueil"
+        }
+    ]
+}

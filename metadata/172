@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS172.png",
+    "tokenId": 172,
+    "name": "ATLAS NFT 172",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue2"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Blond1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "ArmorSilver"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "CieldeBillets"
+        }
+    ]
+}

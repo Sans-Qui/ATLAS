@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS333.png",
+    "tokenId": 333,
+    "name": "ATLAS NFT 333",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue2"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Bald"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Luffy"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Tennis"
+        }
+    ]
+}

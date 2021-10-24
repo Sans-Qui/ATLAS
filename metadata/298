@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS298.png",
+    "tokenId": 298,
+    "name": "ATLAS NFT 298",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Brown1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "PirateInv"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "FireBall"
+        }
+    ]
+}

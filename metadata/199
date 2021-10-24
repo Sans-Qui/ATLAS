@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS199.png",
+    "tokenId": 199,
+    "name": "ATLAS NFT 199",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue2"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Ginger1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Bath"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "MineurDiamant"
+        }
+    ]
+}

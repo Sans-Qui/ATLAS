@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS44.png",
+    "tokenId": 44,
+    "name": "ATLAS NFT 44",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Blond1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "ArmorGold"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "FireBall"
+        }
+    ]
+}

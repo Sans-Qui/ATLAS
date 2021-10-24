@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS185.png",
+    "tokenId": 185,
+    "name": "ATLAS NFT 185",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Grey1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Vader"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "TripleCheese"
+        }
+    ]
+}

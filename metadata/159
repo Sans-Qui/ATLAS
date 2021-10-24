@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS159.png",
+    "tokenId": 159,
+    "name": "ATLAS NFT 159",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Bubble"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Blond1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Superman"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Elephant"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS214.png",
+    "tokenId": 214,
+    "name": "ATLAS NFT 214",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Sayajin"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Bath"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "SaturneShiny"
+        }
+    ]
+}

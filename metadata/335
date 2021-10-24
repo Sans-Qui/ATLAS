@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS335.png",
+    "tokenId": 335,
+    "name": "ATLAS NFT 335",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Bald"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "NoCostume"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "BubbleGum"
+        }
+    ]
+}

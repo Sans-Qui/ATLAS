@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS342.png",
+    "tokenId": 342,
+    "name": "ATLAS NFT 342",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Brown1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Squelette"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Giant"
+        }
+    ]
+}

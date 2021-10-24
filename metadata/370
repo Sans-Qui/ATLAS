@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS370.png",
+    "tokenId": 370,
+    "name": "ATLAS NFT 370",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Women"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Brown1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "ArmorGoldCape"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "SwordShieldIron"
+        }
+    ]
+}

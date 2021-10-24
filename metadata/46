@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS46.png",
+    "tokenId": 46,
+    "name": "ATLAS NFT 46",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mauve"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Blond1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Squeletteblck"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "HarryPotter"
+        }
+    ]
+}

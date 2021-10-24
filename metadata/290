@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS290.png",
+    "tokenId": 290,
+    "name": "ATLAS NFT 290",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mauve"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Ginger1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Vader"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "PinkFloyd"
+        }
+    ]
+}

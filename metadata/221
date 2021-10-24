@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS221.png",
+    "tokenId": 221,
+    "name": "ATLAS NFT 221",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Rainbow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Blue1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "SmokingPinkTie"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "ILoveNFT"
+        }
+    ]
+}

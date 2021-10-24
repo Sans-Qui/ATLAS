@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS58.png",
+    "tokenId": 58,
+    "name": "ATLAS NFT 58",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Green1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "BasketWhite"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "dko"
+        }
+    ]
+}

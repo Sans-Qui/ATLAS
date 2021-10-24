@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS323.png",
+    "tokenId": 323,
+    "name": "ATLAS NFT 323",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Bald"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Mario"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Soucoupe"
+        }
+    ]
+}

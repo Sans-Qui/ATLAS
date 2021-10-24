@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS168.png",
+    "tokenId": 168,
+    "name": "ATLAS NFT 168",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Brown1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "AllBlack"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "HolyPoo"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS59.png",
+    "tokenId": 59,
+    "name": "ATLAS NFT 59",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Ginger1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Naruto"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Guitar"
+        }
+    ]
+}

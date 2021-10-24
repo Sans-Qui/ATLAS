@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS178.png",
+    "tokenId": 178,
+    "name": "ATLAS NFT 178",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Grey1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Bath"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "CatchYellowButterfly"
+        }
+    ]
+}

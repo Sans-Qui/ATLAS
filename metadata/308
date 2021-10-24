@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS308.png",
+    "tokenId": 308,
+    "name": "ATLAS NFT 308",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Bald"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Flame"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "JumpRope"
+        }
+    ]
+}

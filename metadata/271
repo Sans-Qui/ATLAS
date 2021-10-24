@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS271.png",
+    "tokenId": 271,
+    "name": "ATLAS NFT 271",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Brown1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Bionic"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "HandsUp"
+        }
+    ]
+}

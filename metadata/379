@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS379.png",
+    "tokenId": 379,
+    "name": "ATLAS NFT 379",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue2"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Grey1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Flame"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Tennis"
+        }
+    ]
+}

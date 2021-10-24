@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS220.png",
+    "tokenId": 220,
+    "name": "ATLAS NFT 220",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Bald"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "NoCostume"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "USA"
+        }
+    ]
+}

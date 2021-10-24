@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS189.png",
+    "tokenId": 189,
+    "name": "ATLAS NFT 189",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Brown1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Luffy"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Dogecoin"
+        }
+    ]
+}

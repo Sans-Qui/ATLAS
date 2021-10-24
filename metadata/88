@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS88.png",
+    "tokenId": 88,
+    "name": "ATLAS NFT 88",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Bald"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Santa"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Bitcoin"
+        }
+    ]
+}

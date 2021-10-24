@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS64.png",
+    "tokenId": 64,
+    "name": "ATLAS NFT 64",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Blond1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "BaseRed"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Bitcoin"
+        }
+    ]
+}

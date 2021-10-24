@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS105.png",
+    "tokenId": 105,
+    "name": "ATLAS NFT 105",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mauve"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Grey1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "SmokingPinkTie"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Dogecoin"
+        }
+    ]
+}

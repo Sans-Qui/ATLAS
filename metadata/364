@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS364.png",
+    "tokenId": 364,
+    "name": "ATLAS NFT 364",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mauve"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Blond1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "PinkSmoking"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Maracas"
+        }
+    ]
+}

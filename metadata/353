@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS353.png",
+    "tokenId": 353,
+    "name": "ATLAS NFT 353",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Women"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Brown1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Bionic"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Poo"
+        }
+    ]
+}

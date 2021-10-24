@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS188.png",
+    "tokenId": 188,
+    "name": "ATLAS NFT 188",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue2"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Women"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Bald"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Santa"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Giant"
+        }
+    ]
+}

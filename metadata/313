@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS313.png",
+    "tokenId": 313,
+    "name": "ATLAS NFT 313",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mauve"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Brown1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "SmokingPinkTie"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "AquariumRedFish"
+        }
+    ]
+}

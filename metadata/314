@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS314.png",
+    "tokenId": 314,
+    "name": "ATLAS NFT 314",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Grey1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Michael"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "TripleCheese"
+        }
+    ]
+}

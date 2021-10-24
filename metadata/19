@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS19.png",
+    "tokenId": 19,
+    "name": "ATLAS NFT 19",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue2"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Green1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "BasePink"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "SwordShieldDiamond"
+        }
+    ]
+}

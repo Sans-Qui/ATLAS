@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS179.png",
+    "tokenId": 179,
+    "name": "ATLAS NFT 179",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mauve"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Ginger1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Boat"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "CatGrey"
+        }
+    ]
+}

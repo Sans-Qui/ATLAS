@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS156.png",
+    "tokenId": 156,
+    "name": "ATLAS NFT 156",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Grey1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "ArmorGold"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Naruto"
+        }
+    ]
+}

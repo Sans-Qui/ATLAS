@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS7.png",
+    "tokenId": 7,
+    "name": "ATLAS NFT 7",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Bald"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "ArmorSilver"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "AirportGuy"
+        }
+    ]
+}

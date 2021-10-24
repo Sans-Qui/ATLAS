@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS136.png",
+    "tokenId": 136,
+    "name": "ATLAS NFT 136",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Genius"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Brown1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "BasketBlack"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Elephant"
+        }
+    ]
+}

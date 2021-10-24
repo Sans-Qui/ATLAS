@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS383.png",
+    "tokenId": 383,
+    "name": "ATLAS NFT 383",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue2"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Bald"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "ArmorGold"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "HarryPotterCristal"
+        }
+    ]
+}

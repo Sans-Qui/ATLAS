@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS37.png",
+    "tokenId": 37,
+    "name": "ATLAS NFT 37",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Bald"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Sacha"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "MineurGold"
+        }
+    ]
+}

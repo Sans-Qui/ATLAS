@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS274.png",
+    "tokenId": 274,
+    "name": "ATLAS NFT 274",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Ginger1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "ShinyBlue"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Treasure"
+        }
+    ]
+}

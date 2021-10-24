@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS303.png",
+    "tokenId": 303,
+    "name": "ATLAS NFT 303",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Bald"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Egypt"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "AquariumCrab"
+        }
+    ]
+}

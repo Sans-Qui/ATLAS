@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS339.png",
+    "tokenId": 339,
+    "name": "ATLAS NFT 339",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Brown1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "ShinyBlue"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Naruto"
+        }
+    ]
+}

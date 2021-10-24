@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS111.png",
+    "tokenId": 111,
+    "name": "ATLAS NFT 111",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue2"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Blue1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Bionic"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "CatGrey"
+        }
+    ]
+}

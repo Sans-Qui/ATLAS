@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS83.png",
+    "tokenId": 83,
+    "name": "ATLAS NFT 83",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Rainbow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Brown1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Boat"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "CatchYellowButterfly"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS161.png",
+    "tokenId": 161,
+    "name": "ATLAS NFT 161",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Blond1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Bath"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "SaturneShiny"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS62.png",
+    "tokenId": 62,
+    "name": "ATLAS NFT 62",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Rainbow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Brown1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Kakarot"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Phone"
+        }
+    ]
+}

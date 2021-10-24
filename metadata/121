@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS121.png",
+    "tokenId": 121,
+    "name": "ATLAS NFT 121",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue2"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Blond1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Michael"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "LuigiChampi"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS258.png",
+    "tokenId": 258,
+    "name": "ATLAS NFT 258",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mauve"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Brown1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Michael"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "CatGold"
+        }
+    ]
+}

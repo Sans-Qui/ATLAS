@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS279.png",
+    "tokenId": 279,
+    "name": "ATLAS NFT 279",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue2"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Blond1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Squeletteblck"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "MineurCoal"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS52.png",
+    "tokenId": 52,
+    "name": "ATLAS NFT 52",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Rainbow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Women"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Bald"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Flame"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "KeyIron"
+        }
+    ]
+}

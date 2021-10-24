@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS163.png",
+    "tokenId": 163,
+    "name": "ATLAS NFT 163",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Ginger1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Boat"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Dogecoin"
+        }
+    ]
+}

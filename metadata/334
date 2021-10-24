@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS334.png",
+    "tokenId": 334,
+    "name": "ATLAS NFT 334",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Bald"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Vader"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "BasketBall"
+        }
+    ]
+}

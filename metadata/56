@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS56.png",
+    "tokenId": 56,
+    "name": "ATLAS NFT 56",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Brown1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Egypt"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "TripleCheese"
+        }
+    ]
+}

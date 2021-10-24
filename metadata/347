@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS347.png",
+    "tokenId": 347,
+    "name": "ATLAS NFT 347",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Brown1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Michael"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Alt\u00e8res"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS20.png",
+    "tokenId": 20,
+    "name": "ATLAS NFT 20",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Bald"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Saitama"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Phone"
+        }
+    ]
+}

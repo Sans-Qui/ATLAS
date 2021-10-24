@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS269.png",
+    "tokenId": 269,
+    "name": "ATLAS NFT 269",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mauve"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Brown1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "ArmorGold"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "ElephantPink"
+        }
+    ]
+}

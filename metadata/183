@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS183.png",
+    "tokenId": 183,
+    "name": "ATLAS NFT 183",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Rainbow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Bald"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "ArmorGold"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Cercueil"
+        }
+    ]
+}

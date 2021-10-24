@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS337.png",
+    "tokenId": 337,
+    "name": "ATLAS NFT 337",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Bald"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Michael"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "AquariumMedusa"
+        }
+    ]
+}

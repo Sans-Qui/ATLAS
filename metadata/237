@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS237.png",
+    "tokenId": 237,
+    "name": "ATLAS NFT 237",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Women"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Ginger1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Santa"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "HarryPotter"
+        }
+    ]
+}

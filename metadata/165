@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS165.png",
+    "tokenId": 165,
+    "name": "ATLAS NFT 165",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Blond1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Kakarot"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "BubbleGum"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS377.png",
+    "tokenId": 377,
+    "name": "ATLAS NFT 377",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Bald"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Naruto"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Bulbasaur"
+        }
+    ]
+}

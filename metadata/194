@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS194.png",
+    "tokenId": 194,
+    "name": "ATLAS NFT 194",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mauve"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Brown1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "PinkSmoking"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Naruto"
+        }
+    ]
+}

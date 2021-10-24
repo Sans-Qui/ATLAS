@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS272.png",
+    "tokenId": 272,
+    "name": "ATLAS NFT 272",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Bald"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Santa"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "MineurCoal"
+        }
+    ]
+}

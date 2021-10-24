@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS302.png",
+    "tokenId": 302,
+    "name": "ATLAS NFT 302",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Bald"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "SmokingPinkTie"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Guitar"
+        }
+    ]
+}

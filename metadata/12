@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS12.png",
+    "tokenId": 12,
+    "name": "ATLAS NFT 12",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Brown1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Sacha"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Giant"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS381.png",
+    "tokenId": 381,
+    "name": "ATLAS NFT 381",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mauve"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Women"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Blond1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "BasketBlack"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "BlueFire"
+        }
+    ]
+}

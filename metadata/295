@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS295.png",
+    "tokenId": 295,
+    "name": "ATLAS NFT 295",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Bald"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "AllBlack"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "CatchBlueButterfly"
+        }
+    ]
+}

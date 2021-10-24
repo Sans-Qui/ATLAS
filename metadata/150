@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS150.png",
+    "tokenId": 150,
+    "name": "ATLAS NFT 150",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue2"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Women"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Brown1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Magician"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "KeyIron"
+        }
+    ]
+}

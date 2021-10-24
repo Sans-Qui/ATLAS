@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS171.png",
+    "tokenId": 171,
+    "name": "ATLAS NFT 171",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Blond1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Luigi"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "MineurCoal"
+        }
+    ]
+}

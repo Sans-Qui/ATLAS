@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS50.png",
+    "tokenId": 50,
+    "name": "ATLAS NFT 50",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Rainbow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Ginger1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "ArmorSilver"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Bulbasaur"
+        }
+    ]
+}

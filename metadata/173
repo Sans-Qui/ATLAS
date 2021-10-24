@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS173.png",
+    "tokenId": 173,
+    "name": "ATLAS NFT 173",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Rare"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Blond1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Egypt"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "TreasureRare"
+        }
+    ]
+}

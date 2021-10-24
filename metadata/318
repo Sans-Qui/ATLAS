@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS318.png",
+    "tokenId": 318,
+    "name": "ATLAS NFT 318",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Bald"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Magician"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "SaturneShiny"
+        }
+    ]
+}

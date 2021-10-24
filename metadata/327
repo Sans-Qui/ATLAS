@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS327.png",
+    "tokenId": 327,
+    "name": "ATLAS NFT 327",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mauve"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Brown1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "AllBlack"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Saturne"
+        }
+    ]
+}

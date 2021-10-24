@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS33.png",
+    "tokenId": 33,
+    "name": "ATLAS NFT 33",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Brown1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "AllBlack"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "SwordShieldIron"
+        }
+    ]
+}

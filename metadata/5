@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS5.png",
+    "tokenId": 5,
+    "name": "ATLAS NFT 5",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Rainbow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Demon"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Bald"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Mario"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Column"
+        }
+    ]
+}

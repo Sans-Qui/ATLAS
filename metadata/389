@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS389.png",
+    "tokenId": 389,
+    "name": "ATLAS NFT 389",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Genius"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Bald"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Squeletteblck"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "USA"
+        }
+    ]
+}

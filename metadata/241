@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS241.png",
+    "tokenId": 241,
+    "name": "ATLAS NFT 241",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Brown1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "NoCostume"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Lampe"
+        }
+    ]
+}

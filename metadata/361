@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS361.png",
+    "tokenId": 361,
+    "name": "ATLAS NFT 361",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Brown1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "BaseRed"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "CanneBotte"
+        }
+    ]
+}

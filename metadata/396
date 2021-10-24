@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS396.png",
+    "tokenId": 396,
+    "name": "ATLAS NFT 396",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Blond1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Egypt"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "HarryPotter"
+        }
+    ]
+}

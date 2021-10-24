@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS207.png",
+    "tokenId": 207,
+    "name": "ATLAS NFT 207",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Rainbow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Blond1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Prison"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "SaturneShiny"
+        }
+    ]
+}

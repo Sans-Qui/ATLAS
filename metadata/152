@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS152.png",
+    "tokenId": 152,
+    "name": "ATLAS NFT 152",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Women"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Brown1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Saitama"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "ReverseShadow"
+        }
+    ]
+}

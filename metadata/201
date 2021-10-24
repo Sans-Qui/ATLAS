@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS201.png",
+    "tokenId": 201,
+    "name": "ATLAS NFT 201",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Blond1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Michael"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "CrocoRed"
+        }
+    ]
+}

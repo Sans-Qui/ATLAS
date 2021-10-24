@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS195.png",
+    "tokenId": 195,
+    "name": "ATLAS NFT 195",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mauve"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Ginger1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Luigi"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "SaturneShiny"
+        }
+    ]
+}

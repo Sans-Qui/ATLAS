@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS365.png",
+    "tokenId": 365,
+    "name": "ATLAS NFT 365",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Bald"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "SmokingPinkTie"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Guitar"
+        }
+    ]
+}

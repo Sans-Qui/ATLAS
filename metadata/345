@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS345.png",
+    "tokenId": 345,
+    "name": "ATLAS NFT 345",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Brown1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "ArmorGold"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Luffy"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS23.png",
+    "tokenId": 23,
+    "name": "ATLAS NFT 23",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mauve"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Women"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Bald"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "BaseRed"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Tree"
+        }
+    ]
+}

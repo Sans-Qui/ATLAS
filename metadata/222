@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS222.png",
+    "tokenId": 222,
+    "name": "ATLAS NFT 222",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue2"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Bald"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "BasketBlack"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "MarioBrique"
+        }
+    ]
+}

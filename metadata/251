@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS251.png",
+    "tokenId": 251,
+    "name": "ATLAS NFT 251",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Grey1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Sacha"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "CatchingFishBlue"
+        }
+    ]
+}

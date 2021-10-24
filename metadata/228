@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS228.png",
+    "tokenId": 228,
+    "name": "ATLAS NFT 228",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mauve"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Green1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Sacha"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Soucoupe"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS304.png",
+    "tokenId": 304,
+    "name": "ATLAS NFT 304",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Rainbow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Blond1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Mario"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Treasure"
+        }
+    ]
+}

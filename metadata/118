@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS118.png",
+    "tokenId": 118,
+    "name": "ATLAS NFT 118",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Rainbow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Ginger1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Prison"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Charmander"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS240.png",
+    "tokenId": 240,
+    "name": "ATLAS NFT 240",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Rainbow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Ginger1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Kakarot"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "USA"
+        }
+    ]
+}

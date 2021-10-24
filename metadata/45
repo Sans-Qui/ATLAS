@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS45.png",
+    "tokenId": 45,
+    "name": "ATLAS NFT 45",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Blue1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Squelette"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "dko"
+        }
+    ]
+}

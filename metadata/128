@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS128.png",
+    "tokenId": 128,
+    "name": "ATLAS NFT 128",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue2"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Ginger1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Bath"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Axe"
+        }
+    ]
+}

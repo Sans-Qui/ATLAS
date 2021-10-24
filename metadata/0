@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS0.png",
+    "tokenId": 0,
+    "name": "ATLAS NFT 0",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mauve"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Demon"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Blond1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "BasePink"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Naruto"
+        }
+    ]
+}

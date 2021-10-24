@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS216.png",
+    "tokenId": 216,
+    "name": "ATLAS NFT 216",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Rainbow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Brown1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Flame"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "CatGinger"
+        }
+    ]
+}

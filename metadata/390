@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS390.png",
+    "tokenId": 390,
+    "name": "ATLAS NFT 390",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Ginger1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Squeletteblck"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "HandsUp"
+        }
+    ]
+}

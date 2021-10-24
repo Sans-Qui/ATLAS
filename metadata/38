@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS38.png",
+    "tokenId": 38,
+    "name": "ATLAS NFT 38",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Women"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Ginger1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "BaseBlue"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "CatchingFishBlue"
+        }
+    ]
+}

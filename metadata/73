@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS73.png",
+    "tokenId": 73,
+    "name": "ATLAS NFT 73",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Bald"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "BasketBlack"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Tennis"
+        }
+    ]
+}

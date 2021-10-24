@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS119.png",
+    "tokenId": 119,
+    "name": "ATLAS NFT 119",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Bald"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "BaseRed"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "HoldFace"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS138.png",
+    "tokenId": 138,
+    "name": "ATLAS NFT 138",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue2"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Ogre"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Bald"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "PirateInv"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "SwordShieldDiamond"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS142.png",
+    "tokenId": 142,
+    "name": "ATLAS NFT 142",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue2"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Bald"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Michael"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "MineurDiamant"
+        }
+    ]
+}

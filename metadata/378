@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS378.png",
+    "tokenId": 378,
+    "name": "ATLAS NFT 378",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Women"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Brown1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Kakarot"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "France"
+        }
+    ]
+}

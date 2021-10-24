@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS218.png",
+    "tokenId": 218,
+    "name": "ATLAS NFT 218",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Brown1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Squeletteblck"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Vader"
+        }
+    ]
+}

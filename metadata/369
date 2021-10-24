@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS369.png",
+    "tokenId": 369,
+    "name": "ATLAS NFT 369",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Brown1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Flame"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "dko"
+        }
+    ]
+}

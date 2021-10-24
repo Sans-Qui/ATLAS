@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS26.png",
+    "tokenId": 26,
+    "name": "ATLAS NFT 26",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Brown1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Naruto"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Banana"
+        }
+    ]
+}

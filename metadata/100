@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS100.png",
+    "tokenId": 100,
+    "name": "ATLAS NFT 100",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Blue1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "AllBlack"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Elephant"
+        }
+    ]
+}

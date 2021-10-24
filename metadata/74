@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS74.png",
+    "tokenId": 74,
+    "name": "ATLAS NFT 74",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mauve"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Bald"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "PirateInv"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Giant"
+        }
+    ]
+}

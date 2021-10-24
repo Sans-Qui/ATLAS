@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS9.png",
+    "tokenId": 9,
+    "name": "ATLAS NFT 9",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mauve"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Women"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Bald"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Bionic"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "CrocoGreen"
+        }
+    ]
+}

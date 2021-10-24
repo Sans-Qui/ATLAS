@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS259.png",
+    "tokenId": 259,
+    "name": "ATLAS NFT 259",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mauve"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Demon"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Blond1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "BaseRed"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "LuigiChampi"
+        }
+    ]
+}

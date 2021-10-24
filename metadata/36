@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS36.png",
+    "tokenId": 36,
+    "name": "ATLAS NFT 36",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mauve"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Brown1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Pot"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Treasure"
+        }
+    ]
+}

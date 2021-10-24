@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS262.png",
+    "tokenId": 262,
+    "name": "ATLAS NFT 262",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Women"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Grey1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Bionic"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Cercueil"
+        }
+    ]
+}

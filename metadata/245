@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS245.png",
+    "tokenId": 245,
+    "name": "ATLAS NFT 245",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Grey1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Kakarot"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "AquariumMedusa"
+        }
+    ]
+}

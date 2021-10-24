@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS43.png",
+    "tokenId": 43,
+    "name": "ATLAS NFT 43",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Bald"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Bath"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "HarryPotterCristal"
+        }
+    ]
+}

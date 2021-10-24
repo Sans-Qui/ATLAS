@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS149.png",
+    "tokenId": 149,
+    "name": "ATLAS NFT 149",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Grey1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Egypt"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Elephant"
+        }
+    ]
+}

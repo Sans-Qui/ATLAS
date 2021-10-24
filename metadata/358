@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS358.png",
+    "tokenId": 358,
+    "name": "ATLAS NFT 358",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Ginger1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "PirateInv"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "HandCuff"
+        }
+    ]
+}

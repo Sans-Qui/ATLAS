@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS187.png",
+    "tokenId": 187,
+    "name": "ATLAS NFT 187",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mauve"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Blond1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Pirate1"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "TripleCheese"
+        }
+    ]
+}

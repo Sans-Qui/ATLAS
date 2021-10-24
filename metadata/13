@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS13.png",
+    "tokenId": 13,
+    "name": "ATLAS NFT 13",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Rainbow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Brown1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "BasketBlack"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "DoubleCheese"
+        }
+    ]
+}

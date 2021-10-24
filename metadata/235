@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS235.png",
+    "tokenId": 235,
+    "name": "ATLAS NFT 235",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Demon"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Grey1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "ShinyBlue"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "France"
+        }
+    ]
+}

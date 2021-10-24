@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS232.png",
+    "tokenId": 232,
+    "name": "ATLAS NFT 232",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Women"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Grey1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "PinkSmoking"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "DoubleCheese"
+        }
+    ]
+}

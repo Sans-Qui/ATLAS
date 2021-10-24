@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS306.png",
+    "tokenId": 306,
+    "name": "ATLAS NFT 306",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Ginger1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Mario"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "HolyPoo"
+        }
+    ]
+}

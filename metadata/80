@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS80.png",
+    "tokenId": 80,
+    "name": "ATLAS NFT 80",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue2"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Grey1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Squeletteblck"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Maracas"
+        }
+    ]
+}

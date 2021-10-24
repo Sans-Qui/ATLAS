@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS270.png",
+    "tokenId": 270,
+    "name": "ATLAS NFT 270",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Blue1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "NoCostume"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "dko"
+        }
+    ]
+}

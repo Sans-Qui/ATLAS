@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS217.png",
+    "tokenId": 217,
+    "name": "ATLAS NFT 217",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Bald"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Luffy"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Alt\u00e8res"
+        }
+    ]
+}

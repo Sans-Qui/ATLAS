@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS157.png",
+    "tokenId": 157,
+    "name": "ATLAS NFT 157",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Brown1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Egypt"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Squirtle"
+        }
+    ]
+}

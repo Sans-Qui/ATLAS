@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS86.png",
+    "tokenId": 86,
+    "name": "ATLAS NFT 86",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Blond1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "BaseRed"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Bulbasaur"
+        }
+    ]
+}

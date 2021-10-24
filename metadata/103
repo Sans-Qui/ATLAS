@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS103.png",
+    "tokenId": 103,
+    "name": "ATLAS NFT 103",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Bald"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Vader"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "FireBall"
+        }
+    ]
+}

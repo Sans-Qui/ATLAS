@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS125.png",
+    "tokenId": 125,
+    "name": "ATLAS NFT 125",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Blond1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "AllBlack"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Squirtle"
+        }
+    ]
+}

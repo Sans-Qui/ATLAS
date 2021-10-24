@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS84.png",
+    "tokenId": 84,
+    "name": "ATLAS NFT 84",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue2"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Ginger1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Flame"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Charmander"
+        }
+    ]
+}

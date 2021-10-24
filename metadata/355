@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS355.png",
+    "tokenId": 355,
+    "name": "ATLAS NFT 355",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Rare"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Blond1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "ArmorSilver"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "HandCuff"
+        }
+    ]
+}

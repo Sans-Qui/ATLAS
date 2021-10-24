@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS273.png",
+    "tokenId": 273,
+    "name": "ATLAS NFT 273",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Brown1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Pirate1"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Guitar"
+        }
+    ]
+}

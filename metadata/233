@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS233.png",
+    "tokenId": 233,
+    "name": "ATLAS NFT 233",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue2"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Ginger1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "ShinyBlue"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "FireBall"
+        }
+    ]
+}

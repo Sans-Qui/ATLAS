@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS363.png",
+    "tokenId": 363,
+    "name": "ATLAS NFT 363",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Rainbow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Blue1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Saitama"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Treasure"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS372.png",
+    "tokenId": 372,
+    "name": "ATLAS NFT 372",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Genius"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Brown1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "ShinyBlue"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Tennis"
+        }
+    ]
+}

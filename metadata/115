@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS115.png",
+    "tokenId": 115,
+    "name": "ATLAS NFT 115",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mauve"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Bald"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Sacha"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Matches"
+        }
+    ]
+}

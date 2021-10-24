@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS82.png",
+    "tokenId": 82,
+    "name": "ATLAS NFT 82",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Blond1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Egypt"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Alt\u00e8res"
+        }
+    ]
+}

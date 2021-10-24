@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS180.png",
+    "tokenId": 180,
+    "name": "ATLAS NFT 180",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Sayajin"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "BasketWhite"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "DoubleCheese"
+        }
+    ]
+}

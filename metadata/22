@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS22.png",
+    "tokenId": 22,
+    "name": "ATLAS NFT 22",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Rainbow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Grey1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "ArmorGoldCape"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "HoldFace"
+        }
+    ]
+}

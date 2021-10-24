@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS112.png",
+    "tokenId": 112,
+    "name": "ATLAS NFT 112",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue2"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Brown1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "ArmorGoldCape"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "USA"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS311.png",
+    "tokenId": 311,
+    "name": "ATLAS NFT 311",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Women"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Ginger1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "BaseBlue"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Axe"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS394.png",
+    "tokenId": 394,
+    "name": "ATLAS NFT 394",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mauve"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Brown1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "NoCostume"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Treasure"
+        }
+    ]
+}

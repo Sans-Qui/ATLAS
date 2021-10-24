@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS87.png",
+    "tokenId": 87,
+    "name": "ATLAS NFT 87",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Rainbow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Bald"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "BasePink"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Phone"
+        }
+    ]
+}

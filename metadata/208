@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS208.png",
+    "tokenId": 208,
+    "name": "ATLAS NFT 208",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Blond1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "BaseBlue"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "CatchBlueButterfly"
+        }
+    ]
+}

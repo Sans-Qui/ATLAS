@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS289.png",
+    "tokenId": 289,
+    "name": "ATLAS NFT 289",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue2"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Grey1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "PinkSmoking"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "SwordShieldIron"
+        }
+    ]
+}

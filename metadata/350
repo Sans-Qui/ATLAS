@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS350.png",
+    "tokenId": 350,
+    "name": "ATLAS NFT 350",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Bald"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Squelette"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "HarryPotter"
+        }
+    ]
+}

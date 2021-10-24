@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS317.png",
+    "tokenId": 317,
+    "name": "ATLAS NFT 317",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Blond1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "ArmorCuir"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "HarryPotterCristal"
+        }
+    ]
+}

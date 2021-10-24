@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS321.png",
+    "tokenId": 321,
+    "name": "ATLAS NFT 321",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Women"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Blue1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Michael"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "SwordShieldIron"
+        }
+    ]
+}

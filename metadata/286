@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS286.png",
+    "tokenId": 286,
+    "name": "ATLAS NFT 286",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Women"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Brown1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "BasketWhite"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "BasketBall"
+        }
+    ]
+}

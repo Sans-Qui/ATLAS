@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS331.png",
+    "tokenId": 331,
+    "name": "ATLAS NFT 331",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mauve"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Women"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Bald"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Pirate1"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "France"
+        }
+    ]
+}

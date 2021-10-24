@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS116.png",
+    "tokenId": 116,
+    "name": "ATLAS NFT 116",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Bald"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "NoCostume"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "KeyIron"
+        }
+    ]
+}

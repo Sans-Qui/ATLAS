@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS140.png",
+    "tokenId": 140,
+    "name": "ATLAS NFT 140",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Blond1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Boat"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "CatGrey"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS343.png",
+    "tokenId": 343,
+    "name": "ATLAS NFT 343",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Rainbow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Brown1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "BasePink"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Poo"
+        }
+    ]
+}

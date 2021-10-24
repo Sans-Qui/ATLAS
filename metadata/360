@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS360.png",
+    "tokenId": 360,
+    "name": "ATLAS NFT 360",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Ginger1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Bionic"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "AquariumMedusa"
+        }
+    ]
+}

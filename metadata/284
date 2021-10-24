@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS284.png",
+    "tokenId": 284,
+    "name": "ATLAS NFT 284",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Ginger1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Luigi"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "FireBall"
+        }
+    ]
+}

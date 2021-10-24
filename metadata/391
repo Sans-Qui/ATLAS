@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS391.png",
+    "tokenId": 391,
+    "name": "ATLAS NFT 391",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mauve"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Blond1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Saitama"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Guitar"
+        }
+    ]
+}

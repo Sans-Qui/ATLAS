@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS292.png",
+    "tokenId": 292,
+    "name": "ATLAS NFT 292",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Blond1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "PinkSmoking"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Angleterre"
+        }
+    ]
+}

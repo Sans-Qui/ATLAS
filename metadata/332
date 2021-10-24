@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS332.png",
+    "tokenId": 332,
+    "name": "ATLAS NFT 332",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue2"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Bald"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Squelette"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "CatchBlueButterfly"
+        }
+    ]
+}

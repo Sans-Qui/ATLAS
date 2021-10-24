@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS76.png",
+    "tokenId": 76,
+    "name": "ATLAS NFT 76",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue2"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Ginger1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Mario"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "CatGinger"
+        }
+    ]
+}

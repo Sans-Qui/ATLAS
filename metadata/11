@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS11.png",
+    "tokenId": 11,
+    "name": "ATLAS NFT 11",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue2"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Bald"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "BaseRed"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "SwordShieldGold"
+        }
+    ]
+}

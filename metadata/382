@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS382.png",
+    "tokenId": 382,
+    "name": "ATLAS NFT 382",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mauve"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Brown1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "BaseBlue"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Axe"
+        }
+    ]
+}

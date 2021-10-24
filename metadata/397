@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS397.png",
+    "tokenId": 397,
+    "name": "ATLAS NFT 397",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mauve"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Genius"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Brown1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Bath"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "CatGrey"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS375.png",
+    "tokenId": 375,
+    "name": "ATLAS NFT 375",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue2"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Women"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Brown1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Michael"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "TripleCheese"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS205.png",
+    "tokenId": 205,
+    "name": "ATLAS NFT 205",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mauve"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Brown1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "ArmorCuir"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Duck"
+        }
+    ]
+}

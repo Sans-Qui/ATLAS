@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS151.png",
+    "tokenId": 151,
+    "name": "ATLAS NFT 151",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mauve"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Women"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Brown1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "PirateInv"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "HandCuff"
+        }
+    ]
+}

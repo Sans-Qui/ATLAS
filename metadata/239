@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS239.png",
+    "tokenId": 239,
+    "name": "ATLAS NFT 239",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue2"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Ginger1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Egypt"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Matches"
+        }
+    ]
+}

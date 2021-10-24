@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS257.png",
+    "tokenId": 257,
+    "name": "ATLAS NFT 257",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Women"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Blond1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Pot"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Alt\u00e8res"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS25.png",
+    "tokenId": 25,
+    "name": "ATLAS NFT 25",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue2"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Blond1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "BasketWhite"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Tree"
+        }
+    ]
+}

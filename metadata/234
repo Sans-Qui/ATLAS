@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS234.png",
+    "tokenId": 234,
+    "name": "ATLAS NFT 234",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Blond1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Flame"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "CatGrey"
+        }
+    ]
+}

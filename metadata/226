@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS226.png",
+    "tokenId": 226,
+    "name": "ATLAS NFT 226",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Blond1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Luffy"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Giant"
+        }
+    ]
+}

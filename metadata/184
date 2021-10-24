@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS184.png",
+    "tokenId": 184,
+    "name": "ATLAS NFT 184",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue2"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Grey1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Squeletteblck"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Saturne"
+        }
+    ]
+}

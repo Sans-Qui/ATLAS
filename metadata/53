@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS53.png",
+    "tokenId": 53,
+    "name": "ATLAS NFT 53",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Blond1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "ShinyBlue"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "BasketBall"
+        }
+    ]
+}

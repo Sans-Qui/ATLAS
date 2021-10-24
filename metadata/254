@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS254.png",
+    "tokenId": 254,
+    "name": "ATLAS NFT 254",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Bald"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Squeletteblck"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Bitcoin"
+        }
+    ]
+}

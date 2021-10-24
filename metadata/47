@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS47.png",
+    "tokenId": 47,
+    "name": "ATLAS NFT 47",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue2"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Blond1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Bionic"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "MarioBrique"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS229.png",
+    "tokenId": 229,
+    "name": "ATLAS NFT 229",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mauve"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Ogre"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Blond1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "BaseBlue"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Naruto"
+        }
+    ]
+}

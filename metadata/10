@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS10.png",
+    "tokenId": 10,
+    "name": "ATLAS NFT 10",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Blond1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "BaseBlue"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "HandCuff"
+        }
+    ]
+}

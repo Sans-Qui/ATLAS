@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS253.png",
+    "tokenId": 253,
+    "name": "ATLAS NFT 253",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Rare"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Blond1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Bionic"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Phone"
+        }
+    ]
+}

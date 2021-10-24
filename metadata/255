@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS255.png",
+    "tokenId": 255,
+    "name": "ATLAS NFT 255",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Bubble"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Bald"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "BaseRed"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "TreasureRare"
+        }
+    ]
+}

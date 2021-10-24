@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS276.png",
+    "tokenId": 276,
+    "name": "ATLAS NFT 276",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Brown1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "PirateInv"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Earth"
+        }
+    ]
+}

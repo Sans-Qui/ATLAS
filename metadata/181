@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS181.png",
+    "tokenId": 181,
+    "name": "ATLAS NFT 181",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mauve"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Women"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Green1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "SmokingPinkTie"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Alt\u00e8res"
+        }
+    ]
+}

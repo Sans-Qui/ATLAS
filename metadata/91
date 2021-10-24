@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS91.png",
+    "tokenId": 91,
+    "name": "ATLAS NFT 91",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Rainbow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Bald"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "ArmorCuir"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "Bulbasaur"
+        }
+    ]
+}

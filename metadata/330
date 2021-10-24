@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS330.png",
+    "tokenId": 330,
+    "name": "ATLAS NFT 330",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Ogre"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Green1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Vader"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "PinkFloyd"
+        }
+    ]
+}

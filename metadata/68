@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS68.png",
+    "tokenId": 68,
+    "name": "ATLAS NFT 68",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Body1"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Blue1"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Magician"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "MineurDiamant"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "image": "ATLAS307.png",
+    "tokenId": 307,
+    "name": "ATLAS NFT 307",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Hairs",
+            "value": "Bald"
+        },
+        {
+            "trait_type": "Costume",
+            "value": "Egypt"
+        },
+        {
+            "trait_type": "Tool",
+            "value": "BowArrow"
+        }
+    ]
+}
